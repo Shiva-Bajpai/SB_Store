@@ -23,7 +23,7 @@
 
   <section>
     <h2>Getting Started</h2>
-    <p>To explore our diverse range of products and start shopping, simply visit <a href="shiva-bajpai.github.io/SB_Store/">SB-Store</a>. Create an account to access exclusive deals and personalize your shopping experience.</p>
+    <p>To explore our diverse range of products and start shopping, simply visit <a href="https://shiva-bajpai.github.io/SB_Store/">SB-Store</a>. Create an account to access exclusive deals and personalize your shopping experience.</p>
   </section>
 
   <section>
