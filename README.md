@@ -38,7 +38,7 @@
 
   <section>
     <h2>Connect with Us</h2>
-    <p>For inquiries, feedback, or support, contact us via support@sbstore.com. Follow us on social media platforms to stay updated with the latest deals and announcements.</p>
+    <p>For inquiries, feedback, or support, contact us via <a href="mailto:shivabajpai2006@gmail.com">Shivabajpai2006@gmail.com</a>. Follow us on social media platforms to stay updated with the latest deals and announcements.</p>
   </section>
 
   <section>
